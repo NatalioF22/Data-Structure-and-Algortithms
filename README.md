@@ -21,6 +21,24 @@ Queues: A queue is a linear data structure that follows the First-In-First-Out (
 
 ![Queue-Data-Structures](https://user-images.githubusercontent.com/116610989/232370105-dc755fa4-63b5-4615-bab3-3460a03c473e.png)
 
+Setup
+
+Clone the repository to your local machine using the following command:
+bash
+Copy code
+git clone https://github.com/<username>/Data-Structures-and-Algorithms.git
+Navigate to the directory containing the code:
+bash
+Copy code
+cd Data-Structures-and-Algorithms
+Compile the code using a suitable compiler. For example, to compile the code for the Binary Search Algorithm, use the following command:
+sql
+Copy code
+gcc Binary-Search.c -o Binary-Search
+Run the executable file. For example, to run the code for the Binary Search Algorithm, use the following command:
+sql
+Copy code
+./Binary-Search
 
 Contribution
 If you would like to contribute to this repository, please feel free to open a pull request. All contributions are welcome!
